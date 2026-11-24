@@ -5,7 +5,7 @@
 
 Auditoria de registos DNS de correio para prevenção de spoofing, phishing e conformidade técnica com o Quadro Nacional do CNCS e RGPD.
 
-Desenvolvido e mantido pela divisao de seguranca de infraestruturas da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de seguranca de infraestruturas da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py empresa.pt -selector mail -json
 Para auditorias continuas e diagnosticos avancados, consulte a ferramenta oficial:
 
 * **Verificador DMARC e Autenticacao de Correio**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Suporte e Consultoria Especializada
 
-Para projetos corporativos de ciberseguranca e governanca tecnica em Portugal, contacte a equipa da **TAVARDT Portugal**.
+Para projetos corporativos de ciberseguranca e governanca tecnica em Portugal, contacte a equipa da **TAVARDT**.
 
 ***
 
